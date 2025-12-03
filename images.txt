@@ -7,3 +7,4 @@ nginx
 redis
 ubuntu
 tomcat
+registry
